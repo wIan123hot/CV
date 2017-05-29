@@ -54,7 +54,7 @@ a.inner-link { color: #fff; text-decoration: none; }
 @keyframes magic-mouse-icon { 0%   { margin-top: 6px; opacity: 0;} 30%  { opacity: 1;} 100% { margin-top: 18px; opacity: 0;} }
 
 html, body { height: 100%; }
-#home { height: 100%; max-height: 650px; }
+#home { height: 100%; }
 #about { width: 100%; text-align:center; padding: 60px 0;}
 #about h2 { font: 28px/1.5 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#F03; }
 .Ian { padding: 8px 0;}
